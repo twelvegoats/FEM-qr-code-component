@@ -57,6 +57,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: var(--spacing-200);
 }
 
 .heading {
@@ -67,4 +68,13 @@ img {
   letter-spacing: var(--text-letter-spacing-preset-1);
   font-weight: var(--font-weight-bold);
   margin-bottom: var(--spacing-200);
+}
+
+.body {
+  width: 256px;
+  height: 63px;
+  font-size: var(--text-size-preset-2);
+  line-height: var(--text-line-height-preset-2);
+  letter-spacing: var(--text-letter-spacing-preset-2);
+  font-weight: var(--font-weight-regular);
 }
