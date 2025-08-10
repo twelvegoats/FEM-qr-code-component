@@ -73,8 +73,3 @@ This project reinforced the importance of:
 - Writing semantic, accessible HTML
 - Implementing responsive design principles
 - Organizing code for maintainability
-
----
-
-**Challenge by [Frontend Mentor](https://www.frontendmentor.io)**  
-\*\*Coded by [Sean Wildman](https://github.com/tw
