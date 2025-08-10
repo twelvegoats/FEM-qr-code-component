@@ -66,4 +66,5 @@ img {
   line-height: var(--text-line-height-preset-1);
   letter-spacing: var(--text-letter-spacing-preset-1);
   font-weight: var(--font-weight-bold);
+  margin-bottom: var(--spacing-200);
 }
