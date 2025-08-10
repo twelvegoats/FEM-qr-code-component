@@ -1,6 +1,3 @@
-README.md
-Apply
-
 # QR Code Component - Frontend Mentor Challenge
 
 A responsive QR code component built as part of a Frontend Mentor challenge. This project demonstrates fundamental front-end development skills using HTML and CSS.
