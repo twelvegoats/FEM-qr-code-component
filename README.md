@@ -60,7 +60,7 @@ The component is designed to work seamlessly across different device sizes, main
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-link.com)
+- [Live Demo](https://twelvegoats.github.io/FEM-qr-code-component/)
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/twelvegoats)
 
